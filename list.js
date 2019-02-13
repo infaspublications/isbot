@@ -922,4 +922,5 @@ module.exports = [
     'zedzo\\.digest/',
     'zeus',
     'developers\\.google\\.com\\/\\+\\/web\\/snippet\\/',
+    'headlesschrome',
 ];
